@@ -1,0 +1,6 @@
+8/24/2016
+
+We elaborated upon what we learned last class and gained an even clearer understanding on the
+different GIT commands. We started off the class with a warm up exercise that helps us understand
+the purpose and usage of various GIT commands. Then, later on, we reviewed the materials from
+the previous class, and Dr. Pinzon showed us more examples of how the commands can be used.
