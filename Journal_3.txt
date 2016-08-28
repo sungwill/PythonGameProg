@@ -1,8 +1,0 @@
-8/25/2016
-
-We started programming with Python today. Three available python systems are available for us: 
-python, ipython, and jupyter notebook. We watched a few videos to learn how to print "Hello World,"
-then we learned how to implement math equations in it and did an exercise on converting temperature units.
-Later, we learned the two variables for python: int and float, and the differences between the two.
-Finally, we finsihed the class by researching some python functions that are assinged to us, and
-we share our results on a class google document.
