@@ -1,6 +1,0 @@
-8/22/2016
-
-This is the first class of Python, and we first started with a practice about VCS (Version
-Control System) to gain a general understanding of it. Then, we practiced using GIT with an
-online tutorial in which Mr. Pinzon guided us through it later on. We also installed the GIT
-system and began practicing with functions like adding to stage areas and the commit function.
