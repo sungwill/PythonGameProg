@@ -1,0 +1,8 @@
+8/29/2016
+
+Today we began to actually program with Python and the Warm-Up Exercise became a full-class 
+exercise. There were two exercises. With the first one, we were given with 5 3D shapes composed
+of equal-sized cubes. We used Jupyter Notebook to create a program that calculates the surface 
+area and volume of each shape. For the other exercise, we created a program that calculates the
+quadratic function. The program asks the user for the variables a, b, and c, and the program
+prints out the results. Finally, we submitted our codes up to GitHub.
