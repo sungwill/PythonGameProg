@@ -1,0 +1,59 @@
+8/22/2016
+
+This is the first class of Python, and we first started with a practice about VCS (Version
+Control System) to gain a general understanding of it. Then, we practiced using GIT with an
+online tutorial in which Mr. Pinzon guided us through it later on. We also installed the GIT
+system and began practicing with functions like adding to stage areas and the commit function.
+________________________________________________________________________________________________
+
+8/24/2016
+
+We elaborated upon what we learned last class and gained an even clearer understanding on the
+different GIT commands. We started off the class with a warm up exercise that helps us understand
+the purpose and usage of various GIT commands. Then, later on, we reviewed the materials from
+the previous class, and Dr. Pinzon showed us more examples of how the commands can be used.
+________________________________________________________________________________________________
+
+8/25/2016
+
+We started programming with Python today. Three available python systems are available for us: 
+python, ipython, and jupyter notebook. We watched a few videos to learn how to print "Hello World,"
+then we learned how to implement math equations in it and did an exercise on converting temperature 
+units. Later, we learned the two variables for python: int and float, and the differences between 
+the two. Finally, we finsihed the class by researching some python functions that are assinged to us,
+and we share our results on a class google document.
+________________________________________________________________________________________________
+
+8/29/2016
+
+Today we began to actually program with Python and the Warm-Up Exercise became a full-class 
+exercise. There were two exercises. With the first one, we were given with 5 3D shapes composed
+of equal-sized cubes. We used Jupyter Notebook to create a program that calculates the surface 
+area and volume of each shape. For the other exercise, we created a program that calculates the
+quadratic function. The program asks the user for the variables a, b, and c, and the program
+prints out the results. Finally, we submitted our codes up to GitHub.
+________________________________________________________________________________________________
+
+9/1/2016
+
+We began with a warm-up exercise in which we learned the concepts and usages of boolean, if
+statements, and imports. We used pycharm for the first time, and learned how to pass arguments
+on command line with "import sys" and "sys.argv." Dr. Pinzon also taught us the difference in
+the logic behind "and" and "or". Every condition between each "and" must be true in order for
+the entire condition to be true. On the other hand, for "or," only one condition is required for
+the entire condition to be true.
+________________________________________________________________________________________________
+
+9/7/2016
+
+We worked on our warm up practice, which contains exercises for using the while loop. We began
+by first drawing out a flow diagram for the exercise to get a neat understanding of how the while
+loop should run. We tried to figure out the algorithm for the first exercise, which is a program 
+that extracts digit from a number. If the user inputs 4867, then the program should print out 
+each digit one by one:
+
+Digit #1 = 4
+Digit #2 = 8
+Digit #3 = 6
+Digit #4 = 7
+________________________________________________________________________________________________
